@@ -34,3 +34,7 @@ The system automatically controls three traffic lights in a predefined sequence:
 Project Type
 
 Software Simulation
+
+
+### Simulation Link
+Wokwi: https://wokwi.com/projects/481694408080248833
